@@ -24,7 +24,6 @@ jobs:
           npm install -g yarn
           yarn
           yarn deploy
-          yarn build
 
 
       - name: Deploy 🚀
